@@ -7,11 +7,9 @@ int main (){
 
      \n        = untuk membuat baris baru
      \t        = untuk membuat tab
-     "\...\"   = untuk membuat tanda petik dalam string literal
-     dan masih banyak lag, bisa dicari di google ya :)
-     
+     \"...\"   = untuk membuat tanda petik dalam string literal
+     dan masih banyak lagi, bisa dicari di google ya :)
      */
-
 
     // Membuat baris baru
     printf("Indonesia\n");
@@ -22,9 +20,6 @@ int main (){
 
     //membuat tanda petik
     printf("\"NKRI HARGA MATI!\" - Teriak anak muda itu");
-
-    
-    
 
      return 0;
 }
