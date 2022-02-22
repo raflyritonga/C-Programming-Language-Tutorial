@@ -20,10 +20,10 @@ int main (){
      unsigned short i = 2342; // menyimpan bilangan bulat (0 sampai 65,535)                                   (%d)
 
      int j = 255342;            // menyimpan bilangan bulat (integer) (-2,147,483,648 hingga 2,147,483,647)     (%d)
-     unsigned int k = 234322;   // menyimpan bilangan bulat (0 sampai 4,294,967,295.)                           (%d)
+     unsigned int k = 234322;   // menyimpan bilangan bulat (0 sampai 4,294,967,295.)                           (%d) atau (%u)
 
-     long long int j = 2344532;            // menyimpan bilangan bulat (long integer) (-9 quintillion sampai 9 quintillion)     (%d)
-     unsigned long long int k = 2343642;   // menyimpan bilangan bulat (0 sampai 4,294,967,595)                                 (%d)
+     long long int j = 2344532;            // menyimpan bilangan bulat  (-(2^63) sampai (2^63)-1 )                   (%lld) atau (%d)
+     unsigned long long int k = 2343642;   // menyimpan bilangan bulat (0 sampai 18,446,744,073,709,551,615 )        (%llu) atau (%d)
 
 
      /*
