@@ -1,2 +1,2 @@
-# Tutorial_Bahasa_C
-[Indonesia] Belajar bahasa pemrograman C sampai jago, selamat bertumbuh.
+# C-Programming-Language-Tutorial
+[Indonesian] This repository is a documentation of learn the C programming language for beginner to advanced provide in Bahasa Indonesia
