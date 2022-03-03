@@ -25,8 +25,5 @@ int main (){
           printf ("%s\n", nama[i]);
      }
 
-
-
-
      return 0;
 }
