@@ -25,6 +25,7 @@ int main (){
      long long int j = 2344532;            // menyimpan bilangan bulat  (-(2^63) sampai (2^63)-1 )                   (%lld) atau (%d)
      unsigned long long int k = 2343642;   // menyimpan bilangan bulat (0 sampai 18,446,744,073,709,551,615 )        (%llu) atau (%d)
 
+     NULL; // tipe data yang menunjukkan bahwa di dalamnya tidak ada data apapun  
 
      /*
           yang paling sering dipakai adalah char, char [], int, double, float, boolean
