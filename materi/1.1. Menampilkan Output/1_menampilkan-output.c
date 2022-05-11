@@ -36,4 +36,7 @@ int main () {  /* Bagian ini disebut sebagai fungsi utama (main function) yang d
       pernyataan ini berguna untuk keluar dari program kita dan mengembalikan nilai 0 sekaligus ngecek 
       apakah ada error atau tidak. (pembahasan return pernyataan akan dibahas lebih lanjut pada file selanjutnya)
      */
+
+
+    // I lbve you
 }
